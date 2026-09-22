@@ -1,0 +1,12 @@
+tb/sim_build*/
+tb/results*.xml
+tb/dump.ghw
+tb/*.vcd
+tb/__pycache__/
+neorv32
+.venv
+tools
+tb/*.o
+tb/e~*
+tb/twd_tb_top
+tb/twi_tb_top
