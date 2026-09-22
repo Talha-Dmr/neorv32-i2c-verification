@@ -1,0 +1,23 @@
+Yosys Yosys 0.69+117 (git sha1 e8db64c60-dirty, GHDL front-end, synth -top neorv32_twd, TWD_RX_FIFO=TWD_TX_FIFO=4
+== main ==
+      229 wires
+      273 cells
+      273 wires
+      309 cells
+       22 wires
+       18 cells
+      229 wires
+      273 cells
+      273 wires
+      309 cells
+== fix-twd-i2c-nack ==
+      261 wires
+      306 cells
+      305 wires
+      342 cells
+       22 wires
+       18 cells
+      261 wires
+      306 cells
+      305 wires
+      342 cells
