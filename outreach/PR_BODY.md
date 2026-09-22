@@ -46,6 +46,8 @@ for both `FSEL` settings.
 
 Testbench (GHDL + cocotb, ~3 s): https://github.com/Talha-Dmr/neorv32-i2c-verification
 
+Yosys (GHDL front-end) synthesis: 309 → 342 cells with 4-deep FIFOs.
+
 I could not run `processor_check` locally (no RISC-V toolchain here); CI should cover it.
 Happy to adapt anything (state naming, keeping the old retransmit behaviour behind a
 generic, etc.).
